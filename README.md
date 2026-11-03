@@ -29,7 +29,7 @@ npm run dev
 Open [localhost:3000](http://localhost:3000). The [health endpoint](http://localhost:3000/api/health) returns HTTP 200 with:
 
 ```json
-{"status":"ok"}
+{ "status": "ok" }
 ```
 
 Stop the server with Ctrl+C.
